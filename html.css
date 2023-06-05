@@ -1,0 +1,30 @@
+.ob{
+    display: flex;
+    flex-direction: row;
+}
+.kart{
+    height:40% ;
+    width:30% ;
+}
+.za{
+    margin-left: 15%;
+
+}
+.pp{
+    width: 296px;
+    height: 88px;
+    left: 1132px;
+    top: 372px;
+
+}
+.zag{
+    margin-left: 15%;
+
+}
+.nn{
+    width: 296px;
+    height: 88px;
+    left: 1132px;
+    top: 372px;
+
+}
